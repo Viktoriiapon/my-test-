@@ -1,11 +1,11 @@
 {
-  "name": "goit-hw-11",
+  "name": "my test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-hw-11",
+    "build": "vite build --base=/my test",
     "preview": "vite preview"
   },
   "devDependencies": {
